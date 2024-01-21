@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antura", "Antura\Antura.csproj", "{0229064E-F895-424B-885B-E23B4639AF5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B4D929E9-7089-4CA1-A00A-409A75E4768E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0229064E-F895-424B-885B-E23B4639AF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0229064E-F895-424B-885B-E23B4639AF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0229064E-F895-424B-885B-E23B4639AF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0229064E-F895-424B-885B-E23B4639AF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D929E9-7089-4CA1-A00A-409A75E4768E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D929E9-7089-4CA1-A00A-409A75E4768E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D929E9-7089-4CA1-A00A-409A75E4768E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D929E9-7089-4CA1-A00A-409A75E4768E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C3107E-4E22-4598-9501-FF0166A2A6FD}
+	EndGlobalSection
+EndGlobal
